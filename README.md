@@ -1,0 +1,1 @@
+Simple calculator Node project testing using jest.
